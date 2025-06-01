@@ -9,3 +9,4 @@ To compile simply run: **sh compile.sh**
 This project was created using my [PicoSchetchCreator](https://github.com/pedrohcs8/PicoSchetchCreator)
 
 ![General Schematic](display_schematic.png)
+![Real World Testing](test.jpg)
