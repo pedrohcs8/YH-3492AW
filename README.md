@@ -4,7 +4,7 @@ This repo contains all the pinouts for this display that came originally from a 
 * main.c: Simple counter for testing all digits at once
 * testingbuttons.c: Program to go through each segment and each digit using the 2 buttons included in the schematics
 
-To compile simply rename the file you want to main.c run: **sh compile.sh**
+To compile simply rename the file you want to main.c and run: **sh compile.sh**
 
 This project was created using my [PicoSchetchCreator](https://github.com/pedrohcs8/PicoSchetchCreator)
 
