@@ -6,20 +6,22 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
-			(at -24.13 11.43 0)
+		(property "Reference" "U1"
+			(at 26.67 5.0801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "YH-3492AW"
-			(at 17.78 13.97 0)
+			(at 26.67 2.5401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Displays:YH-3492AW"
@@ -28,6 +30,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12SURKWA(Ver.8A).pdf"
@@ -509,7 +512,7 @@
 			(pin input line
 				(at -22.86 16.51 270)
 				(length 2.54)
-				(name "Digit_1"
+				(name "Digit_4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -527,7 +530,7 @@
 			(pin input line
 				(at -20.32 16.51 270)
 				(length 2.54)
-				(name "Digit_2"
+				(name "Digit_1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -563,7 +566,7 @@
 			(pin input line
 				(at -15.24 16.51 270)
 				(length 2.54)
-				(name "Digit_4"
+				(name "Digit_2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -635,7 +638,7 @@
 			(pin input line
 				(at -5.08 16.51 270)
 				(length 2.54)
-				(name "D"
+				(name "DP1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -653,7 +656,7 @@
 			(pin input line
 				(at -2.54 16.51 270)
 				(length 2.54)
-				(name "E"
+				(name "D"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -671,7 +674,7 @@
 			(pin input line
 				(at 0 16.51 270)
 				(length 2.54)
-				(name "DP1"
+				(name "E"
 					(effects
 						(font
 							(size 1.27 1.27)
